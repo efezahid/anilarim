@@ -1,3 +1,3 @@
-Demo: <a href="http://anilarim.zahidefe.net">anilarim.zahidefe.net</a>
+Demo: <a href="http://anilarim.zahidefe.net">anilarim.zahidefe.net</a><br>
 Arayüz: <a href="http://codyhouse.co/gem/horizontal-timeline/">http://codyhouse.co/gem/horizontal-timeline/</a>
 Tepe tepe kullanın.
